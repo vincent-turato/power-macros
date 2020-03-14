@@ -1,5 +1,5 @@
 # PowerMacros
-PowerMacros is plug-in for [!BurpSuite - a web application security framework](https://portswigger.net/burp). It provides extended functionality of BurpSuite's built-in macros feature. This extension allows you to pipe automated requests (when certain conditions are met) to JavaScript files for pre-processing before being sent outbound. With JavaScript files you load, you can manipulate Burp Suite's automated requests on the fly. PowerMacros integrates powerfully with Burp Suite's features, in particular its target scoping functionality. 
+PowerMacros is plug-in for [BurpSuite - a web application security framework](https://portswigger.net/burp). It provides extended functionality of BurpSuite's built-in macros feature. This extension allows you to pipe automated requests (when certain conditions are met) to JavaScript files for pre-processing before being sent outbound. With JavaScript files you load, you can manipulate Burp Suite's automated requests on the fly. PowerMacros integrates powerfully with Burp Suite's features, in particular its target scoping functionality. 
 
 ## Practical Uses
 With the use of JavaScript files, fine-tuned manipulation of automated requests can be achieved. This means that there are many ways this tool can be used. Here are just a few examples of PowerMacros capabilities:
